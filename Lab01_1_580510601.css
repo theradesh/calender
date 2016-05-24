@@ -1,0 +1,38 @@
+body {
+    background-color: #ecf0f1;
+    color: #1565c0;
+}
+
+.container {
+    background-color: #ffffff;
+    
+    width: 60%;
+    margin: auto;
+}
+
+.header {
+  border: 10px solid #2196f3;
+  padding: 10px;
+  text-align: center;
+  box-shadow: 2px 2px 5px #64b5f6;
+}
+
+.class1 {
+    text-align: center;
+}
+
+.class2 {
+    margin: auto;
+}
+
+.class3 {
+    color: #1e88e5;
+}
+
+.class4 {
+    color: red;
+}
+
+.class5 {
+    color: green;
+}
